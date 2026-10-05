@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Sreejeet Roy</h1>
+<h1 align="center">Hi 👋, I'm Sreejeeta Roy</h1>
 <h3 align="center">A passionate developer building full-stack, AI-powered, and real-world impact projects.</h3>
 
 ---
